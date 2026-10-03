@@ -116,6 +116,24 @@ Correct investigation choices can:
 The player also has a limited number of investigation attempts.
 
 ---
+▶️ How to Run
+
+1. Clone the repository
+```
+git clone https://github.com/shafee-jamil38/TRACE-Cybercrime-Investigation-Game.git
+```
+2. Open the project directory
+```
+cd TRACE-Cybercrime-Investigation-Game
+```
+3. Compile the project
+```
+javac Main.java
+```
+4. Run the game
+```
+java Main
+```
 
 ## 📊 Scoring & Ranking System
 
@@ -149,6 +167,7 @@ INVESTIGATION LOG
 ✓ Deleted evidence recovered
 ```
 💻 Sample Game Flow
+```
 ========================================
               TRACE
    A Cybercrime Investigation Game
@@ -196,9 +215,10 @@ INVESTIGATION OPTIONS
 1. Trace IP Address
 2. Check Password History
 3. View User Activity
+```
 
 🏁 Case Completion
-
+```
 ========================================
               CASE SOLVED
 ========================================
@@ -223,8 +243,10 @@ Investigation Rank : ELITE INVESTIGATOR
 ✓ Privileged session traced
 ✓ Insider identified
 ✓ Deleted evidence recovered
+```
 
 👨‍💻 Author
+
 Shafee Jamil (Jamil Ahmed Shafee)
 
 GitHub:
